@@ -1,3 +1,6 @@
+Codigo simples de texto,com abertura com efeito de transparencia.
+
+_________________________________________________________________________________
 # The-real
 The real The real
 
@@ -22,3 +25,4 @@ function draw() {
   textSize(32); // Define o tamanho do texto
   text("The Real", 350, 300); // Desenha o texto na posição (350, 300)
 }
+________________________________________________________________________________
